@@ -1,0 +1,1 @@
+# path-based-component-naming
